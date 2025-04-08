@@ -1,4 +1,4 @@
-<img width="1439" alt="Screenshot 2025-04-08 at 2 52 25 AM" src="https://github.com/user-attachments/assets/2002e181-1862-4b91-804a-912d9b3e83e7" /><img width="1439" alt="Screenshot 2025-04-08 at 2 52 25 AM" src="https://github.com/user-attachments/assets/e95b9188-f279-42a8-8910-6bdbff68c334" /># 🌾 Hybrid Crop Recommendation and Production Prediction System
+#### 🌾 Hybrid Crop Recommendation and Production Prediction System
 
 An intelligent agriculture system that combines historical data lookup with machine learning to provide accurate crop recommendations and production predictions.
 
@@ -100,13 +100,7 @@ input_data = {
 
 ```
 ### Screenshots
-
-## Recommendation:
-![image]<img width="1439" alt="Screenshot 2025-04-08 at 2 53 24 AM" src="https://github.com/user-attachments/assets/15866dce-fd8b-4881-86b0-fe1e682059d9" />
-
-## Production:
-![image]<img width="1439" alt="Screenshot 2025-04-08 at 2 52 25 AM" src="https://github.com/user-attachments/assets/82081d80-4037-441f-aa96-3d31a13a4e5d" />
-
+<img width="1439" alt="Screenshot 2025-04-08 at 2 52 25 AM" src="https://github.com/user-attachments/assets/2002e181-1862-4b91-804a-912d9b3e83e7" /><img width="1439" alt="Screenshot 2025-04-08 at 2 52 25 AM" src="https://github.com/user-attachments/assets/e95b9188-f279-42a8-8910-6bdbff68c334" />
 ## 🚀 How to Run
 
 ### Installation
