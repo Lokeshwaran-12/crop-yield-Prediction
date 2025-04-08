@@ -1,4 +1,4 @@
-#### 🌾 Hybrid Crop Recommendation and Production Prediction System
+# 🌾 Hybrid Crop Recommendation and Production Prediction System
 
 An intelligent agriculture system that combines historical data lookup with machine learning to provide accurate crop recommendations and production predictions.
 
